@@ -5,7 +5,7 @@ Predicting Federal Interest Rates for range or month basis for the year of 2025
 
 Federal Interest Rates from 1954 to 2024 - https://fred.stlouisfed.org/series/FEDFUNDS
 
-##### Data Sources
+#### Features
 Inflation Rates from 1954 to 2024 - https://www.usinflationcalculator.com/inflation/historical-inflation-rates/
 
 Unemployment Rate from 1954 to 2024 - https://fred.stlouisfed.org/series/UNRATE
